@@ -35,3 +35,7 @@ python3.8 -m pip install packaging
 python3.8 -m pip install pandas dash
 
 pip install more-itertools
+
+
+Then execute this command in the terminal:
+python3.8 Dash_Automobile.py (The file name)
