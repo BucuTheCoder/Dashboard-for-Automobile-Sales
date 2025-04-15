@@ -178,6 +178,6 @@ def update_output_container(selected_statistics, input_year):
 
 # Run the Dash app
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=10000, debug=True)
 
 
